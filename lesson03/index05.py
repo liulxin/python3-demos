@@ -1,5 +1,9 @@
 from index04 import Student
 
-student = Student('lsi', 20)
+student = Student('qinghua', 'lisi', 20)
 
 student.do_homework()
+
+print(student.__dict__)
+
+student.get_name()
