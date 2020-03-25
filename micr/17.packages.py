@@ -11,15 +11,12 @@ from helper import display
 display('this is info', True)
 display('this is info', False)
 
+# pip install virtualenv
 
-# install an individual package
-# pip install colorama
-
-# install from a list of packages
-# pip install -r requirements.txt
-
-# requirements.txt
-# colorama
+# windows
+# python -m venv <floder_name>
+# OSX/Linux(bash)
+# virtualenv <floder_name>
 
 
 # using virtual environments
@@ -33,3 +30,12 @@ display('this is info', False)
 
 # OSX/Linux(bash)
 # <folder_name>/bin/Activate
+
+# install an individual package
+# pip install colorama
+
+# install from a list of packages
+# pip install -r requirements.txt
+
+# requirements.txt
+# colorama
