@@ -2,7 +2,7 @@
 # age = input('please enter your age')
 # job = input('please enter your job')
 #
-# # 格式化输出 % 占位符 s -> str d i r
+# # 格式化输出  占位符 s -> str d i r
 # msg = '''
 # -------------- info of %s ---------------
 # Name : %s
